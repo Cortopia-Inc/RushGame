@@ -18,4 +18,5 @@ The security of your information is important to us, but remember that no method
 Our website may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy and terms of service of any site you visit.Children's Privacy:
 Our game and website are not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.Changes to This Privacy Policy:
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.Contact Us:
-If you have any questions about this Privacy Policy, please contact us at chainlogiclabs@gmail.com.
+
+If you have any questions about this Privacy Policy, please contact us at issues@cotopia.com.
